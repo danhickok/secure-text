@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\WIP\\SecureText\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35FB4DBC-3023-4466-8DE4-1E269EDD6E7B}|SecureText\\SecureText.csproj|c:\\wip\\securetext\\securetext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{35FB4DBC-3023-4466-8DE4-1E269EDD6E7B}|SecureText\\SecureText.csproj|solutionrelative:securetext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C61E8D45-37DD-4F50-EBA5-5A3049FAF5C1}|SecureText\\SecureText.csproj|c:\\wip\\securetext\\securetext\\securetext.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C61E8D45-37DD-4F50-EBA5-5A3049FAF5C1}|SecureText\\SecureText.csproj|solutionrelative:securetext\\securetext.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61E8D45-37DD-4F50-EBA5-5A3049FAF5C1}|SecureText\\SecureText.csproj|c:\\wip\\securetext\\securetext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C61E8D45-37DD-4F50-EBA5-5A3049FAF5C1}|SecureText\\SecureText.csproj|solutionrelative:securetext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SecureText",
+              "DocumentMoniker": "C:\\WIP\\SecureText\\SecureText\\SecureText.csproj",
+              "RelativeDocumentMoniker": "SecureText\\SecureText.csproj",
+              "ToolTip": "C:\\WIP\\SecureText\\SecureText\\SecureText.csproj",
+              "RelativeToolTip": "SecureText\\SecureText.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T19:44:45.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\WIP\\SecureText\\SecureText\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SecureText\\MainWindow.xaml",
               "ToolTip": "C:\\WIP\\SecureText\\SecureText\\MainWindow.xaml",
               "RelativeToolTip": "SecureText\\MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-17T19:32:54.363Z",
               "EditorCaption": ""
