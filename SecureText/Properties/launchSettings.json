@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SecureText (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SecureText (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
